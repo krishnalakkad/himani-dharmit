@@ -9,7 +9,7 @@ function App() {
           <video src={video} controls autoPlay={false}></video>
         </div>
         <div className="col-xl-6 col-xs-12">
-          <h1>We Trioo</h1>
+          <h1>Mine ❤️</h1>
         </div>
       </div>
     </div>
